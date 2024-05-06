@@ -1,0 +1,6 @@
+This file name is Module1.txt
+This file has the general features of the Motor Protection Relay
+
+1) Dry Run Protection
+2) Over Load Protection
+3) Under Voltage Protection
