@@ -8,3 +8,6 @@ This file has the general features of the Motor Protection Relay
 5) Start up LOGO of CRI
 6) Scrolling speed change
 7) Pump ON/OFF Display
+8) LED indication for Motor ON/OFF
+9) Press button 1 and 3 ,for settings
+10) Long Press button 2 ,for restart
